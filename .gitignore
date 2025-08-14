@@ -1,0 +1,5 @@
+# ignore jar files
+*.jar
+
+#ignore abc files
+[a,b,c]*.bkp
